@@ -2,7 +2,7 @@
 
 int main() {
     int a, b;
-    printf("Enter two numbers: ");
+    printf("Entrer deux nombres: ");
     scanf("%d %d", &a, &b);
     int result = 0;
 
@@ -13,7 +13,7 @@ int main() {
         a *= 2;
         b /= 2;
     }
-    printf("Product: %d\n", result);
+    printf("Produit: %d\n", result);
 
     return 0;
 }

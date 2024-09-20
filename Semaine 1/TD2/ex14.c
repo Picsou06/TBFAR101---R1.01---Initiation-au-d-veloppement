@@ -14,8 +14,6 @@ int main() {
             nombre /= i;
         }
     }
-
     printf("\n");
-
     return 0;
 }
