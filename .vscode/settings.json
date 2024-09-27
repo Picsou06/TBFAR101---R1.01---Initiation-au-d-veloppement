@@ -2,7 +2,8 @@
     "files.associations": {
         "stdio.h": "c",
         "mesbibliotheques.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "assert.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "editor.fontFamily": "Monocraft, Consolas, 'Courier New', monospace"
